@@ -1,5 +1,7 @@
 package com.nitron.linkedlists.FindCycleInLinkedList;
 
+import com.nitron.linkedlists.ListNode;
+
 public class DetectAndReturnCycleBeginning {
 
     public ListNode detectCycle(ListNode head) {

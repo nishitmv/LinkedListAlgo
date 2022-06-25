@@ -1,5 +1,7 @@
 package com.nitron.linkedlists.FindIntersectionNodeBetweenTwoLists;
 
+import com.nitron.linkedlists.ListNode;
+
 public class LinkedListIntercestionNodeFinder {
 
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
