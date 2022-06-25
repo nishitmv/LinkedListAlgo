@@ -6,6 +6,9 @@ public class LinkedListNthNodeRemover {
 
     public ListNode removeNthFromEnd(ListNode head, int n) {
 
+        if(head==null)
+            return null;
+
         ListNode pointer = head;
 
         int length =0;
